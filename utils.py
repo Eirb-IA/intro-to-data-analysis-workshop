@@ -23,7 +23,6 @@ def hide_toggle(text='', for_next=False):
             function {f_name}() {{
                 {cell_selector}.find('div.input').toggle();
             }}
-            {cell_selector}.find('div.input').toggle();
             {js_hide_current}
         </script>
 
